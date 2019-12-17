@@ -2,7 +2,7 @@ test2.R is the code for identifing lncRNA target genes.
 
 all.lncrna.txt and allgene.txt are the lncRNAs and genes' names.
 
-gene-net1.txt is the gene-gene interaction data which is downloaded from humannetv2.0
+gene-net1.txt is the gene-gene interaction data which is downloaded from humannetv2.0 (upzip this file)
 
 The features of lncRNAs and gene have already been extracted as lncrna.feature.txt and gene.feature.txt.
 
